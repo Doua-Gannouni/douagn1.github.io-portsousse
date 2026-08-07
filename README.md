@@ -1,89 +1,67 @@
 # Port of Sousse — Initiation Internship Website
 
-<p align="center">
-  <strong>A static presentation website developed during my first academic internship at OMMP — Port of Sousse.</strong>
-</p>
-
-<p align="center">
-  <a href="YOUR_LIVE_URL_HERE">
-    🌐 View Live Website
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-Static%20Website-orange" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-Styling-blue" alt="CSS3">
-  <img src="https://img.shields.io/badge/Internship-July%202021-lightgrey" alt="Internship">
-</p>
-
-<p align="center">
-  <a href="#english">English</a> •
-  <a href="#francais">Français</a>
-</p>
+A simple static website developed during my first academic internship at the **Office of Merchant Marine and Ports — OMMP, Port of Sousse**.
 
 ---
-
-<a id="english"></a>
 
 ## 🇬🇧 English
 
 ### About the project
 
-This static website was developed during my first academic internship, completed at the **Office of Merchant Marine and Ports — OMMP, Port of Sousse**, in July 2021.
+This website was created during my one-month initiation internship at **OMMP — Port of Sousse**, in July 2021.
 
-OMMP is a Tunisian public institution operating under the supervision of the **Tunisian Ministry of Transport**.
+This internship was my first experience in a professional work environment. It allowed me to discover the port sector, observe the organization of a public institution and learn more about the activities of the Port of Sousse.
 
-This one-month initiation internship was my first contact with a professional work environment. It allowed me to discover the port ecosystem, gain an initial understanding of its activities and organization, and observe how a public institution operates in a real professional context.
+During the internship, I took several photographs of the port and used them to create a simple informational website.
 
-During the internship, I took several photographs of the port environment and used them as visual content for this informational website.
+The project was developed using my first academic knowledge of **HTML and CSS**.
 
-The project allowed me to apply my first academic knowledge of **HTML and CSS** by creating a simple static website presenting the Port of Sousse.
+### Project information
 
-### Internship information
+- **Organization:** Office of Merchant Marine and Ports — OMMP
+- **Location:** Port of Sousse, Tunisia
+- **Internship type:** Initiation internship
+- **Period:** July 2021
+- **Duration:** One month
+- **Technologies:** HTML5 and CSS3
 
-| Information | Details |
-|---|---|
-| Organization | Office of Merchant Marine and Ports — OMMP |
-| Location | Port of Sousse, Tunisia |
-| Internship type | Initiation internship |
-| Duration | One month |
-| Period | July 2021 |
-| Project type | Static informational website |
+### Purpose
 
-### Objectives
+This project represents the beginning of my academic and technical journey in web development.
 
-- Discover the professional and institutional environment of the Port of Sousse.
-- Gain an initial understanding of port activities and organization.
-- Experience a professional workplace for the first time.
-- Apply basic HTML and CSS knowledge to a real academic project.
-- Organize textual and photographic content in a static website.
-- Present the internship environment through a simple web interface.
+> This is an academic project and not the official website of OMMP or the Port of Sousse.
 
-### Technologies used
+---
 
-- **HTML5** — page structure and content
-- **CSS3** — layout and visual styling
-- **Images** — photographs taken during the internship
-- **Static website architecture** — no backend or database
+## 🇫🇷 Français
 
-### What I learned
+### À propos du projet
 
-This internship represented an important first step in my academic journey. It helped me understand the difference between classroom learning and a professional environment.
+Ce site web a été réalisé durant mon stage d’initiation d’un mois effectué à l’**Office de la Marine Marchande et des Ports — OMMP, Port de Sousse**, en juillet 2021.
 
-Through this project, I practiced:
+Ce stage représentait ma première expérience dans un environnement professionnel. Il m’a permis de découvrir le domaine portuaire, d’observer l’organisation d’un établissement public et d’en apprendre davantage sur les activités du port de Sousse.
 
-- Structuring web pages with HTML.
-- Styling and organizing content with CSS.
-- Integrating images into a website.
-- Creating simple navigation and page layouts.
-- Presenting information clearly through a web interface.
-- Observing professional communication and workplace organization.
+Pendant le stage, j’ai pris plusieurs photographies du port et je les ai utilisées pour créer un site web informatif simple.
 
-The simplicity of this website reflects the introductory nature of the internship and my technical level at that early stage of my academic journey.
+Le projet a été développé en appliquant mes premières connaissances académiques en **HTML et CSS**.
 
-### Run the project locally
+### Informations sur le projet
 
-Clone the repository:
+- **Organisme :** Office de la Marine Marchande et des Ports — OMMP
+- **Lieu :** Port de Sousse, Tunisie
+- **Type de stage :** Stage d’initiation
+- **Période :** Juillet 2021
+- **Durée :** Un mois
+- **Technologies :** HTML5 et CSS3
 
-```bash
-git clone https://github.com/Doua-Gannouni/douagn1.github.io-portsousse.git
+### Objectif
+
+Ce projet représente le début de mon parcours académique et technique dans le développement web.
+
+> Ce site est un projet académique et ne constitue pas le site officiel de l’OMMP ou du port de Sousse.
+
+---
+
+## Author / Auteure
+
+**Doua Gannouni**
