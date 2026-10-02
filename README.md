@@ -1,67 +1,37 @@
-# Port of Sousse — Initiation Internship Website
+# Port of Sousse — Internship Website
 
-A simple static website developed during my first academic internship at the **Office of Merchant Marine and Ports — OMMP, Port of Sousse**.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![Academic Project](https://img.shields.io/badge/Academic-Project-blue)
 
----
+> Static informational website about the Port of Sousse, built during my initiation internship at OMMP in July 2021.
 
-## 🇬🇧 English
+## About
 
-### About the project
+This website was created during my first professional experience: a one-month initiation internship at the **Office of Merchant Marine and Ports (OMMP), Port of Sousse**. The internship allowed me to discover the port sector and the organization of a public institution. I photographed the port during the internship and used these photos to build a simple informational website, applying my first academic knowledge of HTML and CSS.
 
-This website was created during my one-month initiation internship at **OMMP — Port of Sousse**, in July 2021.
+## Project Details
 
-This internship was my first experience in a professional work environment. It allowed me to discover the port sector, observe the organization of a public institution and learn more about the activities of the Port of Sousse.
+| | |
+|---|---|
+| **Organization** | Office of Merchant Marine and Ports (OMMP) |
+| **Location** | Port of Sousse, Tunisia |
+| **Internship** | Initiation internship, one month |
+| **Period** | July 2021 |
+| **Technologies** | HTML5, CSS3 |
 
-During the internship, I took several photographs of the port and used them to create a simple informational website.
+## Getting Started
 
-The project was developed using my first academic knowledge of **HTML and CSS**.
+```bash
+git clone https://github.com/Doua-Gannouni/<repository-name>.git
+```
 
-### Project information
+Open `index.html` in a web browser. No installation or build step is required.
 
-- **Organization:** Office of Merchant Marine and Ports — OMMP
-- **Location:** Port of Sousse, Tunisia
-- **Internship type:** Initiation internship
-- **Period:** July 2021
-- **Duration:** One month
-- **Technologies:** HTML5 and CSS3
+## Disclaimer
 
-### Purpose
+This is an academic project and not the official website of OMMP or the Port of Sousse.
 
-This project represents the beginning of my academic and technical journey in web development.
+## Author
 
-> This is an academic project and not the official website of OMMP or the Port of Sousse.
-
----
-
-## 🇫🇷 Français
-
-### À propos du projet
-
-Ce site web a été réalisé durant mon stage d’initiation d’un mois effectué à l’**Office de la Marine Marchande et des Ports — OMMP, Port de Sousse**, en juillet 2021.
-
-Ce stage représentait ma première expérience dans un environnement professionnel. Il m’a permis de découvrir le domaine portuaire, d’observer l’organisation d’un établissement public et d’en apprendre davantage sur les activités du port de Sousse.
-
-Pendant le stage, j’ai pris plusieurs photographies du port et je les ai utilisées pour créer un site web informatif simple.
-
-Le projet a été développé en appliquant mes premières connaissances académiques en **HTML et CSS**.
-
-### Informations sur le projet
-
-- **Organisme :** Office de la Marine Marchande et des Ports — OMMP
-- **Lieu :** Port de Sousse, Tunisie
-- **Type de stage :** Stage d’initiation
-- **Période :** Juillet 2021
-- **Durée :** Un mois
-- **Technologies :** HTML5 et CSS3
-
-### Objectif
-
-Ce projet représente le début de mon parcours académique et technique dans le développement web.
-
-> Ce site est un projet académique et ne constitue pas le site officiel de l’OMMP ou du port de Sousse.
-
----
-
-## Author / Auteure
-
-**Doua Gannouni**
+**Doua Gannouni** · [GitHub](https://github.com/Doua-Gannouni)
